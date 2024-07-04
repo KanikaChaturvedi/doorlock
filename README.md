@@ -20,9 +20,3 @@ This project involves the development of an IoT-based smart biometric door lock 
   - The project is based on an ESP32 architecture connected to an enterprise network, (IITK) in the current implementation.
 
 
-
-### Software Setup
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/smart-biometric-doorlock.git
-   cd smart-biometric-doorlock
